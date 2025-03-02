@@ -1,0 +1,13 @@
+let abc = 'Hello World';
+console.log((abc = 'Hello World'));
+console.log((abc = 'Hello World'));
+console.log((abc = 'Hello World'));
+console.log((abc = 'Hello World'));
+console.log((abc = 'Hello World'));
+console.log((abc = 'Hello World'));
+console.log((abc = 'Hello World'));
+console.log((abc = 'Hello World'));
+console.log((abc = 'Hello World'));
+console.log((abc = 'Hello World'));
+console.log((abc = 'Hello World'));
+console.log((abc = 'Hello World'));
